@@ -1,8 +1,8 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import MainPage from './page/MainPage';
-import BlogDetail from './page/BlogDetail';
-import PropertySearchTool from "./page/PropertySearchTool";
+import MainPage from './pages/MainPage';
+import BlogDetail from './pages/BlogDetail';
+import PropertySearchTool from "./pages/PropertySearchTool";
 
 function App() {
   return (
